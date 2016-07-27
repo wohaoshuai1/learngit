@@ -1,2 +1,2 @@
-Git is a version contro1 system
+Git is a distrubuted version contro1 system
 Git is a free software.
